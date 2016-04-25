@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./curtiisprengeli01spregoog_0453.png"; bbox 0 0 2732 4810; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 498 1600 1048 1800">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 498 1600 1019 1800">
+     <span class='ocr_line' id='line_1_1' title="bbox 498 1600 1019 1722; baseline 0.004 -18"><span class='ocrx_word' id='word_1_1' title='bbox 498 1600 1019 1722; x_wconf 41' lang='lat' dir='ltr'>nsciis&amp;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 546 1708 1048 1800; baseline -0.007 -17.905"><span class='ocrx_word' id='word_1_2' title='bbox 546 1708 1048 1800; x_wconf 60' lang='lat'>11111121&#39;1‘52‘2</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 210 1849 1278 2154">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 210 1849 1272 2140">
+     <span class='ocr_line' id='line_1_3' title="bbox 607 1849 910 1948; baseline 0.007 -24"><span class='ocrx_word' id='word_1_3' title='bbox 607 1849 910 1948; x_wconf 75' lang='lat' dir='ltr'>Rudolphopoli,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 210 1959 1278 2154; baseline -0.003 -34"><span class='ocrx_word' id='word_1_4' title='bbox 210 2127 212 2132; x_wconf 55' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 282 2073 338 2120; x_wconf 72' lang='lat' dir='ltr'><em>n</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 382 1959 1278 2154; x_wconf 36' lang='lat' dir='ltr'>mmmm1lek=1ihus01</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1370 4810">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1370 4810">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1370 4810; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1370 4810; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
